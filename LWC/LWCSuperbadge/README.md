@@ -1,5 +1,5 @@
 # Salesforce Project: 
 
-Projeto para trilha de desenvolvedor Salesforce do Trailhead.
+Projeto de Lightning Web Component para trilha de desenvolvedor Salesforce do Trailhead.
 
-Desenvolvido um LWC para o Superbadge.
+Uma mistura com um pouco de Apex, JavaScript, HTML e CSS.
